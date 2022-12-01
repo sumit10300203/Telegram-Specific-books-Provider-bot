@@ -1,0 +1,1 @@
+worker: python Telegram-Specific-books-Provider-bot.py
